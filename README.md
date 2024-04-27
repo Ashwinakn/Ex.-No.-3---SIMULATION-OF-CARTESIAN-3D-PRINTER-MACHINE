@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![EMPD-5](https://github.com/Ashwinakn/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/152128332/510cad2a-6dfc-442a-bf7e-1f5a370ad4cf)
+
+
+### Name: ASHWINA K N
+### Register Number: 212223230025
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
